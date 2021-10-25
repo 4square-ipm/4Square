@@ -1,5 +1,3 @@
-# IPM - Grupo 6
-
 # 4Square
 
 Ramiro Henriques, 52535
