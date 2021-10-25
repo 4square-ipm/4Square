@@ -1,5 +1,3 @@
-# 4Square
-
 <img src="Logo.png" alt="hi" class="inline"/>
 
 Ramiro Henriques, 52535
