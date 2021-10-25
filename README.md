@@ -1,22 +1,22 @@
 # Logo:
 
-<img src="Logo.png" alt="hi" class="inline"/>
+<img src="Logo.png" alt="hi" width="200" height="200" class="inline"/>
 
 # The Team:
 
-<img src="ram.jpg" alt="hi" class="inline"/>
+<img src="ram.jpg" alt="hi" width="200" height="200" class="inline"/>
 
 Ramiro Henriques, 52535
 
-<img src="toni.jpg" alt="hi" class="inline"/>
+<img src="toni.jpg" alt="hi" width="200" height="200" class="inline"/>
 
 António Pereira, 55416
 
-<img src="dudu.jpg" alt="hi" class="inline"/>
+<img src="dudu.jpg" alt="hi" width="200" height="200" class="inline"/>
 
 Duarte Belo, 55793
 
-<img src="lagi.jpg" alt="hi" class="inline"/>
+<img src="lagi.jpg" alt="hi" width="200" height="200" class="inline"/>
 
 Diogo Lages, 55951
 
