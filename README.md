@@ -1,1 +1,2 @@
-# 4Square
+# IPM - Grupo 6
+
