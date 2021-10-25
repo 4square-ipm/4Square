@@ -1,5 +1,3 @@
- <link rel="shortcut icon" type="image/x-icon" href="Logo.png">
-
 # Logo:
 
 <img src="Logo.png" alt="hi" width="200" height="200" class="inline"/>
