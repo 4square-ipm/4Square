@@ -4,11 +4,19 @@
 
 # The Team:
 
+<img src="ram.jpg" alt="hi" class="inline"/>
+
 Ramiro Henriques, 52535
+
+<img src="toni.jpg" alt="hi" class="inline"/>
 
 António Pereira, 55416
 
+<img src="dudu.jpg" alt="hi" class="inline"/>
+
 Duarte Belo, 55793
+
+<img src="lagi.jpg" alt="hi" class="inline"/>
 
 Diogo Lages, 55951
 
