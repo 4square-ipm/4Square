@@ -1,6 +1,7 @@
 <title> 4Square </title>
-
-<img src="Logo.png" alt="hi" width="400" height="400" class="center"/>
+<p align="center">
+    <img src="Logo.png" width="400" height="400"/>
+</p>
 
 # IPM - Group 6:
 
