@@ -1,8 +1,11 @@
 <title> 4Square </title>
 
-# Logo:
-
 <img src="Logo.png" alt="hi" width="200" height="200" class="inline"/>
+
+# IPM - Group 6:
+
+In the scope of the course of Human-Machine Interaction, we decided to create an app that promises revolucionize
+the way that people organize their lives and works. 
 
 # The Team:
 
