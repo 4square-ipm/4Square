@@ -1,3 +1,5 @@
+<title> 4Square </title>
+
 # Logo:
 
 <img src="Logo.png" alt="hi" width="200" height="200" class="inline"/>
