@@ -34,6 +34,6 @@ Diogo Lages, 55951
 
 <a href="G_06_Stage2.pdf">Stage 2</a><br>
 
-<a href="G_06_Stage3.pdf">Stage 3</a><br>
+<a href="Stage3_P1_G6.pdf">Stage 3</a><br>
 
 <a href="flowmap.png">Storyboard</a><br>
