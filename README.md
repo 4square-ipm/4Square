@@ -16,7 +16,7 @@ Ramiro Henriques, 52535
 
 <a href="Assignent 1 - Ramiro.pdf">Assigment 1</a><br>
 
-<img src="toni.jpg" alt="hi" width="200" height="200" class="inline"/>
+<img src="final.jpg" alt="hi" width="200" height="200" class="inline"/>
 
 António Pereira, 55416
 
