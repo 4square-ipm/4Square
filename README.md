@@ -45,3 +45,5 @@ Diogo Lages, 55951
 <a href="Stage5_P2_G6.pdf">Stage 5</a><br>
 
 <a href="Stage6_P2_G6.pdf">Stage 6</a><br>
+
+<a href=https://drive.google.com/file/d/1UfVxiWiKgp10pFIKkS0o9wJw-XrYypHU/view?usp=sharing>Apk of the final app</a><br>
