@@ -38,4 +38,10 @@ Diogo Lages, 55951
 
 <a href="Stage3_P1_G6.pdf">Stage 3</a><br>
 
-<a href="flowmap.png">Storyboard</a><br>
+<a href="flowmap.png"> - Storyboard (Attachment to Stage 3)</a><br>
+
+<a href="Stage4_P1_G6.pdf">Stage 4</a><br>
+
+<a href="Stage5_P1_G6.pdf">Stage 5</a><br>
+
+<a href="Stage6_P1_G6.pdf">Stage 6</a><br>
